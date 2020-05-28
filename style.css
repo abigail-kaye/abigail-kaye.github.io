@@ -1,10 +1,11 @@
 .all{
-    background-color: rgb(189, 39, 39);
+    background-color: rgb(106, 111, 173);
 }
 
 .header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500px;
 }
 
 .contact{
@@ -15,4 +16,10 @@
 .mainLogo{
     font-size: x-large;
     text-align: center;
+    font-style: italic;
+}
+
+.form{
+    width: 500px;
+    background-color: white;
 }
