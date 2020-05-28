@@ -1,11 +1,18 @@
-.intro{
+.all{
     background-color: rgb(189, 39, 39);
+}
+
+.header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 500 px;
 }
 
 .contact{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainLogo{
+    font-size: x-large;
+    text-align: center;
 }
