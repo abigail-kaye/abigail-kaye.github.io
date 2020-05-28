@@ -2,24 +2,25 @@
     background-color: rgb(106, 111, 173);
 }
 
-.header {
+.all .header {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 500px;
 }
 
-.contact{
+.all .contact{
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.mainLogo{
+.all .mainLogo{
     font-size: x-large;
     text-align: center;
     font-style: italic;
 }
 
-.form{
+.all .form{
     width: 500px;
     background-color: white;
+    text-align: center;
 }
